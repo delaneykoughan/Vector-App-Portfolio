@@ -37,8 +37,6 @@ function Gallery() {
   const staticImages = [
     {
       src: image5,
-      caption:
-        "Natural History of the French Village Conservation Woodland – Nov. 2021",
     },
     { src: image2, caption: "" },
     { src: image3, caption: "" },
