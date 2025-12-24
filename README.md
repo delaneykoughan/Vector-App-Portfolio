@@ -15,7 +15,7 @@
 
 #Key Features(that I contributed to)
  * Implemented accessibility standards for user with low vision/hearing
- * Implemented mapping API with TTS based on the users location
+ * Implemented mapping API with TTS based on the user's location
 
 #How to Run
 * Prerequisite: make sure you have npm installed
@@ -25,6 +25,6 @@
     - npm run dev
 
 #credits
-* this website was developed as a student project for Saint Mary's University in collaberation with the French Village Conservation Woodland
-* Visual assets from the original acedemic version have been removed or replaced by pixabay images due to licensing restrictions
+* this website was originally developed as a student project for Saint Mary's University in collaboration with the French Village Conservation Woodland. but has been heavily modified for a portfolio
+* Visual assets from the original academic version have been removed or replaced by pixabay images due to licensing restrictions
 
